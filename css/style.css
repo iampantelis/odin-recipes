@@ -1,0 +1,71 @@
+.bodymain{
+    background-color: bisque;
+    background-image: url(/images/backrec.jpeg);
+    background-repeat: repeat;
+    background-size: 200px;
+    background-blend-mode: screen;
+}
+#titleid{
+    font-size: 80px;
+    color: rgb(174, 110, 32);
+    text-shadow: 2px 1px 10px rgb(160, 103, 38);
+    padding-bottom: 0;
+    margin-bottom: 20px;
+}
+.mainpage{
+    display: table;
+    text-align: center;
+    place-self: center;
+    margin: auto;
+    
+}
+img{
+    margin: 0px;
+}
+#pageimg{
+    border-radius: 20px;
+}
+.mainpage .linksmain{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.b1{
+    background-color: rgb(174, 110, 32);
+    border-radius: 30px;
+    padding: 8px;
+    margin-left: 10px;
+}
+.b1:hover{
+    background-color: rgb(125, 77, 22);
+}
+.linkspage{
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    font-size: 20px;
+    margin-top: 20px; 
+}
+#subtitle{
+    font-size: 40px;
+    color: rgb(143, 97, 41);
+    text-shadow: 2px 1px 10px rgb(186, 121, 46);
+    padding-bottom: 0;
+    margin-bottom: 20px;
+}
+p, li{
+    background-color: antiquewhite;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.list{
+    padding-left: 0;
+    padding-right: 0;
+    padding-right: 0;
+    list-style-position: inside;
+}
